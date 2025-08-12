@@ -35,4 +35,4 @@ I would love if you helped contribute to my project. There is a requirements.txt
 
 ## License
 
-MIT License
+This project uses a MIT license. This means you freely use, modify, and distribute the software however you like.
